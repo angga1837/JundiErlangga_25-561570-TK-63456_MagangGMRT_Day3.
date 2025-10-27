@@ -1,3 +1,6 @@
+//Jundi Erlangga Luhur Prawira
+//25/561570/TK/63456
+
 #include <ESP32Servo.h> //deklarasi library servo esp32
 #include <Adafruit_MPU6050.h> //deklarasi library mpu
 #include <Adafruit_Sensor.h> //deklarasi library sensor
